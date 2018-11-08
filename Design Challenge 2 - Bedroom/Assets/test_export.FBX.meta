@@ -337,6 +337,71 @@ ModelImporter:
     4300124: Box012
     4300126: Box013
     4300128: ps4
+    6400000: Bedframe
+    6400002: Book003
+    6400004: Book004
+    6400006: Book005
+    6400008: Book006
+    6400010: Book007
+    6400012: Book008
+    6400014: Book009
+    6400016: Book015
+    6400018: Book017
+    6400020: Book1
+    6400022: Book2
+    6400024: Bottom Hinge
+    6400026: Box001
+    6400028: Box002
+    6400030: Box003
+    6400032: Box004
+    6400034: Box005
+    6400036: Box006
+    6400038: Box007
+    6400040: Box008
+    6400042: Box009
+    6400044: Box010
+    6400046: Box012
+    6400048: Box013
+    6400050: Chair
+    6400052: ChairCushion
+    6400054: Console shelf
+    6400056: Curtain pole
+    6400058: Desk
+    6400060: Door handle
+    6400062: Drawer1
+    6400064: Drawer2
+    6400066: Drawer3
+    6400068: Drawer4
+    6400070: Duvet
+    6400072: Floor
+    6400074: Keyboard
+    6400076: Left Curtain
+    6400078: Mattress
+    6400080: Mirror
+    6400082: Moniter
+    6400084: Mouse
+    6400086: Mug
+    6400088: Papers
+    6400090: Papers001
+    6400092: Papers002
+    6400094: Papers003
+    6400096: Pillow1
+    6400098: Pillow2
+    6400100: Pillow3
+    6400102: Pillow4
+    6400104: ps4
+    6400106: Right curtain
+    6400108: Right handle
+    6400110: Rug
+    6400112: Shelf
+    6400114: Top Hinge
+    6400116: Tower
+    6400118: TV
+    6400120: TV Cable1
+    6400122: TV Cable2
+    6400124: Wall1
+    6400126: Wall2
+    6400128: Wall3
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -370,13 +435,13 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
