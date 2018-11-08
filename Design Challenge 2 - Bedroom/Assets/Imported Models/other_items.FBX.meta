@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: f85cd60209e44bd42a175ccf74269e77
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bedframe
+    100002: Box001
+    100004: Box002
+    100006: Box003
+    100008: Box004
+    100010: Chair
+    100012: ChairCushion
+    100014: Console shelf
+    100016: Desk
+    100018: Drawer1
+    100020: Drawer2
+    100022: Drawer3
+    100024: Drawer4
+    100026: Duvet
+    100028: Left Curtain
+    100030: Mattress
+    100032: //RootNode
+    100034: Pillow1
+    100036: Pillow2
+    100038: Pillow3
+    100040: Pillow4
+    100042: Right curtain
+    100044: Shelf
+    400000: Bedframe
+    400002: Box001
+    400004: Box002
+    400006: Box003
+    400008: Box004
+    400010: Chair
+    400012: ChairCushion
+    400014: Console shelf
+    400016: Desk
+    400018: Drawer1
+    400020: Drawer2
+    400022: Drawer3
+    400024: Drawer4
+    400026: Duvet
+    400028: Left Curtain
+    400030: Mattress
+    400032: //RootNode
+    400034: Pillow1
+    400036: Pillow2
+    400038: Pillow3
+    400040: Pillow4
+    400042: Right curtain
+    400044: Shelf
+    2100000: contruction
+    2100002: No Name
+    2300000: Bedframe
+    2300002: Box001
+    2300004: Box002
+    2300006: Box003
+    2300008: Box004
+    2300010: Chair
+    2300012: ChairCushion
+    2300014: Console shelf
+    2300016: Desk
+    2300018: Drawer1
+    2300020: Drawer2
+    2300022: Drawer3
+    2300024: Drawer4
+    2300026: Duvet
+    2300028: Left Curtain
+    2300030: Mattress
+    2300032: Pillow1
+    2300034: Pillow2
+    2300036: Pillow3
+    2300038: Pillow4
+    2300040: Right curtain
+    2300042: Shelf
+    3300000: Bedframe
+    3300002: Box001
+    3300004: Box002
+    3300006: Box003
+    3300008: Box004
+    3300010: Chair
+    3300012: ChairCushion
+    3300014: Console shelf
+    3300016: Desk
+    3300018: Drawer1
+    3300020: Drawer2
+    3300022: Drawer3
+    3300024: Drawer4
+    3300026: Duvet
+    3300028: Left Curtain
+    3300030: Mattress
+    3300032: Pillow1
+    3300034: Pillow2
+    3300036: Pillow3
+    3300038: Pillow4
+    3300040: Right curtain
+    3300042: Shelf
+    4300000: Bedframe
+    4300002: Mattress
+    4300004: Pillow4
+    4300006: Pillow3
+    4300008: Pillow2
+    4300010: Pillow1
+    4300012: Duvet
+    4300014: Desk
+    4300016: Drawer2
+    4300018: Drawer1
+    4300020: Drawer4
+    4300022: Drawer3
+    4300024: Chair
+    4300026: ChairCushion
+    4300028: Console shelf
+    4300030: Shelf
+    4300032: Box001
+    4300034: Box002
+    4300036: Box003
+    4300038: Box004
+    4300040: Right curtain
+    4300042: Left Curtain
+    6400000: Bedframe
+    6400002: Box001
+    6400004: Box002
+    6400006: Box003
+    6400008: Box004
+    6400010: Chair
+    6400012: ChairCushion
+    6400014: Console shelf
+    6400016: Desk
+    6400018: Drawer1
+    6400020: Drawer2
+    6400022: Drawer3
+    6400024: Drawer4
+    6400026: Duvet
+    6400028: Left Curtain
+    6400030: Mattress
+    6400032: Pillow1
+    6400034: Pillow2
+    6400036: Pillow3
+    6400038: Pillow4
+    6400040: Right curtain
+    6400042: Shelf
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
