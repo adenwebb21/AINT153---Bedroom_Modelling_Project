@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 4cffd2fbc70049c40bdb8844d37c1fca
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bedframe
+    100002: Book003
+    100004: Book004
+    100006: Book005
+    100008: Book006
+    100010: Book007
+    100012: Book008
+    100014: Book009
+    100016: Book015
+    100018: Book017
+    100020: Book1
+    100022: Book2
+    100024: Bottom Hinge
+    100026: Box001
+    100028: Box002
+    100030: Box003
+    100032: Box004
+    100034: Box005
+    100036: Box006
+    100038: Box007
+    100040: Box008
+    100042: Box009
+    100044: Box010
+    100046: Box012
+    100048: Box013
+    100050: Chair
+    100052: ChairCushion
+    100054: Console shelf
+    100056: Curtain pole
+    100058: Desk
+    100060: Door handle
+    100062: Drawer1
+    100064: Drawer2
+    100066: Drawer3
+    100068: Drawer4
+    100070: Duvet
+    100072: Floor
+    100074: Keyboard
+    100076: Left Curtain
+    100078: Mattress
+    100080: Mirror
+    100082: Moniter
+    100084: Mouse
+    100086: Mug
+    100088: Papers
+    100090: Papers001
+    100092: Papers002
+    100094: Papers003
+    100096: Pillow1
+    100098: Pillow2
+    100100: Pillow3
+    100102: Pillow4
+    100104: ps4
+    100106: Right curtain
+    100108: Right handle
+    100110: Rug
+    100112: Shelf
+    100114: //RootNode
+    100116: Top Hinge
+    100118: Tower
+    100120: TV
+    100122: TV Cable1
+    100124: TV Cable2
+    100126: Wall1
+    100128: Wall2
+    100130: Wall3
+    400000: Bedframe
+    400002: Book003
+    400004: Book004
+    400006: Book005
+    400008: Book006
+    400010: Book007
+    400012: Book008
+    400014: Book009
+    400016: Book015
+    400018: Book017
+    400020: Book1
+    400022: Book2
+    400024: Bottom Hinge
+    400026: Box001
+    400028: Box002
+    400030: Box003
+    400032: Box004
+    400034: Box005
+    400036: Box006
+    400038: Box007
+    400040: Box008
+    400042: Box009
+    400044: Box010
+    400046: Box012
+    400048: Box013
+    400050: Chair
+    400052: ChairCushion
+    400054: Console shelf
+    400056: Curtain pole
+    400058: Desk
+    400060: Door handle
+    400062: Drawer1
+    400064: Drawer2
+    400066: Drawer3
+    400068: Drawer4
+    400070: Duvet
+    400072: Floor
+    400074: Keyboard
+    400076: Left Curtain
+    400078: Mattress
+    400080: Mirror
+    400082: Moniter
+    400084: Mouse
+    400086: Mug
+    400088: Papers
+    400090: Papers001
+    400092: Papers002
+    400094: Papers003
+    400096: Pillow1
+    400098: Pillow2
+    400100: Pillow3
+    400102: Pillow4
+    400104: ps4
+    400106: Right curtain
+    400108: Right handle
+    400110: Rug
+    400112: Shelf
+    400114: //RootNode
+    400116: Top Hinge
+    400118: Tower
+    400120: TV
+    400122: TV Cable1
+    400124: TV Cable2
+    400126: Wall1
+    400128: Wall2
+    400130: Wall3
+    2100000: contruction
+    2100002: No Name
+    2100004: Floor
+    2100006: Walls
+    2100008: Glass
+    2100010: Screws
+    2100012: Monitor
+    2300000: Bedframe
+    2300002: Book003
+    2300004: Book004
+    2300006: Book005
+    2300008: Book006
+    2300010: Book007
+    2300012: Book008
+    2300014: Book009
+    2300016: Book015
+    2300018: Book017
+    2300020: Book1
+    2300022: Book2
+    2300024: Bottom Hinge
+    2300026: Box001
+    2300028: Box002
+    2300030: Box003
+    2300032: Box004
+    2300034: Box005
+    2300036: Box006
+    2300038: Box007
+    2300040: Box008
+    2300042: Box009
+    2300044: Box010
+    2300046: Box012
+    2300048: Box013
+    2300050: Chair
+    2300052: ChairCushion
+    2300054: Console shelf
+    2300056: Curtain pole
+    2300058: Desk
+    2300060: Door handle
+    2300062: Drawer1
+    2300064: Drawer2
+    2300066: Drawer3
+    2300068: Drawer4
+    2300070: Duvet
+    2300072: Floor
+    2300074: Keyboard
+    2300076: Left Curtain
+    2300078: Mattress
+    2300080: Mirror
+    2300082: Moniter
+    2300084: Mouse
+    2300086: Mug
+    2300088: Papers
+    2300090: Papers001
+    2300092: Papers002
+    2300094: Papers003
+    2300096: Pillow1
+    2300098: Pillow2
+    2300100: Pillow3
+    2300102: Pillow4
+    2300104: ps4
+    2300106: Right curtain
+    2300108: Right handle
+    2300110: Rug
+    2300112: Shelf
+    2300114: Top Hinge
+    2300116: Tower
+    2300118: TV
+    2300120: TV Cable1
+    2300122: TV Cable2
+    2300124: Wall1
+    2300126: Wall2
+    2300128: Wall3
+    3300000: Bedframe
+    3300002: Book003
+    3300004: Book004
+    3300006: Book005
+    3300008: Book006
+    3300010: Book007
+    3300012: Book008
+    3300014: Book009
+    3300016: Book015
+    3300018: Book017
+    3300020: Book1
+    3300022: Book2
+    3300024: Bottom Hinge
+    3300026: Box001
+    3300028: Box002
+    3300030: Box003
+    3300032: Box004
+    3300034: Box005
+    3300036: Box006
+    3300038: Box007
+    3300040: Box008
+    3300042: Box009
+    3300044: Box010
+    3300046: Box012
+    3300048: Box013
+    3300050: Chair
+    3300052: ChairCushion
+    3300054: Console shelf
+    3300056: Curtain pole
+    3300058: Desk
+    3300060: Door handle
+    3300062: Drawer1
+    3300064: Drawer2
+    3300066: Drawer3
+    3300068: Drawer4
+    3300070: Duvet
+    3300072: Floor
+    3300074: Keyboard
+    3300076: Left Curtain
+    3300078: Mattress
+    3300080: Mirror
+    3300082: Moniter
+    3300084: Mouse
+    3300086: Mug
+    3300088: Papers
+    3300090: Papers001
+    3300092: Papers002
+    3300094: Papers003
+    3300096: Pillow1
+    3300098: Pillow2
+    3300100: Pillow3
+    3300102: Pillow4
+    3300104: ps4
+    3300106: Right curtain
+    3300108: Right handle
+    3300110: Rug
+    3300112: Shelf
+    3300114: Top Hinge
+    3300116: Tower
+    3300118: TV
+    3300120: TV Cable1
+    3300122: TV Cable2
+    3300124: Wall1
+    3300126: Wall2
+    3300128: Wall3
+    4300000: Bedframe
+    4300002: Mattress
+    4300004: Pillow4
+    4300006: Pillow3
+    4300008: Pillow2
+    4300010: Pillow1
+    4300012: Duvet
+    4300014: Floor
+    4300016: Wall2
+    4300018: Wall3
+    4300020: Wall1
+    4300022: Desk
+    4300024: Drawer2
+    4300026: Drawer1
+    4300028: Drawer4
+    4300030: Drawer3
+    4300032: Chair
+    4300034: ChairCushion
+    4300036: Right handle
+    4300038: Console shelf
+    4300040: TV
+    4300042: TV Cable1
+    4300044: TV Cable2
+    4300046: Shelf
+    4300048: Rug
+    4300050: Mirror
+    4300052: Door handle
+    4300054: Top Hinge
+    4300056: Bottom Hinge
+    4300058: Moniter
+    4300060: Mug
+    4300062: Tower
+    4300064: Box001
+    4300066: Box002
+    4300068: Box003
+    4300070: Box004
+    4300072: Box005
+    4300074: Box006
+    4300076: Box007
+    4300078: Box008
+    4300080: Box009
+    4300082: Box010
+    4300084: Papers
+    4300086: Book1
+    4300088: Book2
+    4300090: Papers001
+    4300092: Papers002
+    4300094: Keyboard
+    4300096: Mouse
+    4300098: Book003
+    4300100: Book004
+    4300102: Book005
+    4300104: Book006
+    4300106: Book007
+    4300108: Book008
+    4300110: Book009
+    4300112: Right curtain
+    4300114: Left Curtain
+    4300116: Curtain pole
+    4300118: Book015
+    4300120: Book017
+    4300122: Papers003
+    4300124: Box012
+    4300126: Box013
+    4300128: ps4
+    6400000: Bedframe
+    6400002: Book003
+    6400004: Book004
+    6400006: Book005
+    6400008: Book006
+    6400010: Book007
+    6400012: Book008
+    6400014: Book009
+    6400016: Book015
+    6400018: Book017
+    6400020: Book1
+    6400022: Book2
+    6400024: Bottom Hinge
+    6400026: Box001
+    6400028: Box002
+    6400030: Box003
+    6400032: Box004
+    6400034: Box005
+    6400036: Box006
+    6400038: Box007
+    6400040: Box008
+    6400042: Box009
+    6400044: Box010
+    6400046: Box012
+    6400048: Box013
+    6400050: Chair
+    6400052: ChairCushion
+    6400054: Console shelf
+    6400056: Curtain pole
+    6400058: Desk
+    6400060: Door handle
+    6400062: Drawer1
+    6400064: Drawer2
+    6400066: Drawer3
+    6400068: Drawer4
+    6400070: Duvet
+    6400072: Floor
+    6400074: Keyboard
+    6400076: Left Curtain
+    6400078: Mattress
+    6400080: Mirror
+    6400082: Moniter
+    6400084: Mouse
+    6400086: Mug
+    6400088: Papers
+    6400090: Papers001
+    6400092: Papers002
+    6400094: Papers003
+    6400096: Pillow1
+    6400098: Pillow2
+    6400100: Pillow3
+    6400102: Pillow4
+    6400104: ps4
+    6400106: Right curtain
+    6400108: Right handle
+    6400110: Rug
+    6400112: Shelf
+    6400114: Top Hinge
+    6400116: Tower
+    6400118: TV
+    6400120: TV Cable1
+    6400122: TV Cable2
+    6400124: Wall1
+    6400126: Wall2
+    6400128: Wall3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
